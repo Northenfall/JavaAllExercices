@@ -10,9 +10,7 @@ public class Circle {
         this.radius = radius;
     }
 
-    public Point getCenter() {
-        return center;
-    }
+    public Point getCenter() { return center;  }
 
     public double getRadius() {
         return radius;
