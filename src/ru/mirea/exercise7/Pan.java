@@ -18,5 +18,4 @@ public class Pan  extends  Dish{
     public void makeBorsh(){
         System.out.println("Borsh svaren");
     }
-
 }

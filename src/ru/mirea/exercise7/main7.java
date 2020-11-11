@@ -2,7 +2,7 @@ package ru.mirea.exercise7;
 
 import java.util.ArrayList;
 
-public class Main {
+public class main7 {
     public static void main(String[] args){
         Plate plate = new Plate(1,10);
 
@@ -15,6 +15,9 @@ public class Main {
         allDishes.add(plate);
         allDishes.add(pan);
 
+        gonsh gonsh = new gonsh();
+        gonsh.setVoice("gav");
+        gonsh.Voice();
 
     }
 }
